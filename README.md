@@ -1,10 +1,6 @@
 # Shopify Store Open Order Exporter
 
-This Node.js application fetches data from a Shopify store API and exports it to a CSV file.
-
-Shopify's graphQL API is used.
-
-This is a basic proof-of-concept script.
+This Node.js application fetches data from a Shopify store and exports it to a CSV file.
 
 ## Prerequisites
 
