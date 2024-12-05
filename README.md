@@ -4,7 +4,7 @@ This Node.js application fetches data from a Shopify store API and exports it to
 
 Shopify's graphQL API is used.
 
-This is a basic script built for a friend.
+This is a basic proof-of-concept script.
 
 ## Prerequisites
 
